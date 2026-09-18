@@ -1,0 +1,55 @@
+body{
+    font-family: cursive;
+    background-color: #425B9A;
+    margin: 0;
+}
+
+.topic{
+    background-color: #76C0EC;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 35px;
+}
+.para{
+    background-color: #FF95A5;
+    border-radius: 7px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    margin-bottom: 70px;
+}
+.you-vid{
+    justify-content: center;
+    display: flex;
+}
+h2{
+    font-size: 30px;
+    color: #FFF6DC;
+    padding-left: 15px;
+}
+.cards{
+    background-color: #76C0EC;
+    width: 1100px;
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    border-radius: 25px;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.card{
+    background-color: #FF95A5;
+    padding: 25px;
+    padding-top: 0;
+    border-radius: 25px;
+}
+.card h4{
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
